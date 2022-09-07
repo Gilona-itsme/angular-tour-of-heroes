@@ -1,6 +1,10 @@
 {
-  "name": "my-app-angular",
+  "name": "angular-tour-of-heroes",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilona-itsme/angular-tour-of-heroes.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
